@@ -1,0 +1,11 @@
+{
+  "name": "claude-md-to-word",
+  "version": "1.0.0",
+  "description": "Claude Code skill: markdown → Word (with de-AI processing)",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "docx": "^9.6.1",
+    "image-size": "^2.0.2"
+  }
+}

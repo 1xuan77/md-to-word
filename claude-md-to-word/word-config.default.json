@@ -1,0 +1,61 @@
+{
+  "fonts": {
+    "body": "Microsoft YaHei",
+    "bodySize": 24,
+    "code": "Consolas",
+    "codeSize": 20,
+    "heading": "Microsoft YaHei",
+    "formula": "Consolas"
+  },
+  "page": {
+    "marginTop": 1440,
+    "marginBottom": 1440,
+    "marginLeft": 1440,
+    "marginRight": 1440
+  },
+  "colors": {
+    "link": "0563C1",
+    "code": "333333",
+    "quote": "666666",
+    "heading": "1F1F1F",
+    "body": "333333",
+    "formula": "444444",
+    "imagePlaceholder": "999999",
+    "thematicBreak": "999999",
+    "tableHeaderBg": "F2F2F2"
+  },
+  "spacing": {
+    "paragraphAfter": 120,
+    "headingBefore": 360,
+    "headingBeforeNested": 240,
+    "headingAfter": 160,
+    "listItemAfter": 80,
+    "codeBlockBefore": 80,
+    "codeBlockAfter": 80,
+    "codeBlockIndent": 400,
+    "blockquoteBefore": 80,
+    "blockquoteAfter": 80,
+    "blockquoteIndent": 400,
+    "thematicBreakBefore": 200,
+    "thematicBreakAfter": 200,
+    "imageBefore": 200,
+    "imageAfter": 200,
+    "imageCaptionSize": 18,
+    "tableAfter": 100,
+    "tableCellPadding": 40,
+    "formulaBefore": 200,
+    "formulaAfter": 200
+  },
+  "image": {
+    "maxWidth": 500,
+    "maxHeight": 700
+  },
+  "list": {
+    "indentPerLevel": 200,
+    "baseIndent": 400,
+    "bulletChar": "•"
+  },
+  "table": {
+    "headerBgColor": "F2F2F2"
+  }
+}

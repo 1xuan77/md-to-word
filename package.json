@@ -1,0 +1,10 @@
+{
+  "name": "word-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Word document generator using docx",
+  "type": "module",
+  "dependencies": {
+    "docx": "^9.6.1"
+  }
+}
